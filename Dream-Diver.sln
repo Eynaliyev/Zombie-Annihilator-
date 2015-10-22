@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{ECA85886-099D-DE43-E642-F303B7A2AF3A}") = "Dream-Diver", "Assembly-CSharp.csproj", "{843EFEA9-E141-24C0-749A-D03363AE7532}"
+EndProject
+Project("{ECA85886-099D-DE43-E642-F303B7A2AF3A}") = "Dream-Diver", "Assembly-CSharp-Editor.csproj", "{2CE4CA20-DB7A-62CC-364F-80FEE2AD5718}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{843EFEA9-E141-24C0-749A-D03363AE7532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843EFEA9-E141-24C0-749A-D03363AE7532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843EFEA9-E141-24C0-749A-D03363AE7532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843EFEA9-E141-24C0-749A-D03363AE7532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE4CA20-DB7A-62CC-364F-80FEE2AD5718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE4CA20-DB7A-62CC-364F-80FEE2AD5718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE4CA20-DB7A-62CC-364F-80FEE2AD5718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE4CA20-DB7A-62CC-364F-80FEE2AD5718}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+			GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
